@@ -1,1 +1,1 @@
-# medi_tools is a group based software lab project
+# medi_tools is my software lab project
