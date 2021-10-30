@@ -1,1 +1,1 @@
-# medi_tools is my software lab project
+# medi_tools is one of my undergrade lab project
