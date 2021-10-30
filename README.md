@@ -1,2 +1,2 @@
 # medi_tools 
-This is one of my lab project
+This is one of my lab projects
